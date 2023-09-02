@@ -10,9 +10,11 @@ Here are some of my tools
 
 - 🔭 I’m currently working on my todo-app
 
-- 🌱 I’m currently learning React and JavaScript
+- 🌱 I’m currently learning JavaScript and React
 
-- ⚡ Fun fact: I know 5 languages : Italian, German, English, Ukrainian and russian
+- ⚡ Fun fact: I know 4 languages : Italian, German, English and Ukrainian
+
+- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
 <!--
 **fraus-greg/fraus-greg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
