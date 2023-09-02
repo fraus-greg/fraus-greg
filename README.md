@@ -14,8 +14,6 @@ Here are some of my tools
 
 - ⚡ Fun fact: I know 4 languages : Italian, German, English and Ukrainian
 
-- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
-
 <!--
 **fraus-greg/fraus-greg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
