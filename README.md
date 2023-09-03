@@ -1,4 +1,4 @@
-# Hi there 👋 I am Greg 
+# Hi there, I am Greg 👋 
 
 Here are some of my tools
 
