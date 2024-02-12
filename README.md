@@ -8,11 +8,9 @@ Here are some of my tools
 
 ## Here are some interest information  
 
-- 🔭 I’m currently working on my todo-app
+- 🔭 I’m currently studying in Liceo of Mendrisio 
 
-- 🌱 I’m currently learning JavaScript and React
-
-- ⚡ Fun fact: I know 4 languages : Italian, German, English and Ukrainian
+- ⚡ Fun fact: I know 5 languages : Italian, German, English, Russian and Ukrainian
 
 <!--
 **fraus-greg/fraus-greg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
